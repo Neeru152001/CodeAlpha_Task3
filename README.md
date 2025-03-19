@@ -96,7 +96,7 @@ This project is open-source and available under the MIT License.<br>
 
 # 📩 Contact<br>
 • Email : neerukct15@gmail.com<br>
-• github : Neeru152001<br>
+• github : https://github.com/Neeru152001<br>
 
 # ⭐ Support<br>
 If you found this project helpful, don't forget to leave a ⭐ on the repository!<br>
