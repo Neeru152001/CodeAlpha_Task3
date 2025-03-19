@@ -102,5 +102,5 @@ This project is open-source and available under the MIT License.<br>
 If you found this project helpful, don't forget to leave a ⭐ on the repository!<br>
 
 
-# ✅ Enjoy Playing the Memory Puzzle Game! 🎯<br>
+### ✅ Enjoy Playing the Memory Puzzle Game! 🎯<br>
 
